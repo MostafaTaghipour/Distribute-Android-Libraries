@@ -22,7 +22,7 @@ Once your project is ready and running, you’ll have to add a new local library
 - Add the dependency to your app/build.gradle file:
 
 ```
-implement project(':mycoollib')
+implementation project(':mycoollib')
 ```
 - Modify your library and add your codes 
 
